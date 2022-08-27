@@ -17,7 +17,7 @@ while (true){
 
         cout << "The digital time is :";
 
-        cout << "      |" << hrs << " : " << minutes << " : " << seconds << " " << endl;
+        cout << "      " << hrs << " : " << minutes << " : " << seconds << " " << endl;
 
         seconds++;
         if (seconds >= 60)
